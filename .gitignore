@@ -1,0 +1,18 @@
+#[ PYTHON ]
+*.pyc
+*.*~
+*__pycache__*
+
+
+#[ DJANGO ]
+media/
+files/temp/
+files/assets/
+*.log
+logs/
+
+#[ VIRTUAL ENVIRONMENT ]
+venv/
+env/
+venv
+env
